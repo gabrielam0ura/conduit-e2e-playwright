@@ -27,5 +27,8 @@
     "@vitejs/plugin-react-swc": "^4.2.3",
     "concurrently": "^9.2.1",
     "vitest": "^4.0.18"
+  },
+  "dependencies": {
+    "mysql2": "^3.22.3"
   }
 }
